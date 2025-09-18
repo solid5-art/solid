@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="16"
+   height="16"
+   viewBox="0 0 512 512"
+   fill="none"
+   version="1.1"
+   id="svg200"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs204"><style
+       type="text/css"
+       id="style368">
+   <![CDATA[
+    .fil0 {fill:#131414}
+    .fil1 {fill:#4FB5B9}
+    .fil3 {fill:#717575}
+    .fil2 {fill:#FDC446}
+   ]]>
+  </style></defs><path
+     d="M214.15 345.2C194.15 345.2 176.417 340.667 160.95 331.6C145.483 322.533 133.35 310.133 124.55 294.4C115.75 278.667 111.35 260.8 111.35 240.8C111.35 220.8 115.75 203.067 124.55 187.6C133.35 171.867 145.483 159.6 160.95 150.8C176.417 141.733 194.15 137.2 214.15 137.2C231.217 137.2 246.55 140.133 260.15 146C274.017 151.6 285.35 159.867 294.15 170.8C302.95 181.733 308.417 194.933 310.55 210.4L259.35 217.2C258.283 209.467 255.75 202.933 251.75 197.6C247.75 192 242.683 187.733 236.55 184.8C230.417 181.867 223.083 180.4 214.55 180.4C204.95 180.4 196.15 182.933 188.15 188C180.15 193.067 173.883 200.133 169.35 209.2C164.817 218.267 162.55 228.8 162.55 240.8C162.55 252.8 164.817 263.467 169.35 272.8C173.883 281.867 180.15 289.067 188.15 294.4C196.15 299.467 204.95 302 214.55 302C223.083 302 230.55 300.533 236.95 297.6C243.35 294.667 248.417 290.533 252.15 285.2C256.15 279.6 258.817 273.2 260.15 266L312.55 272.4C310.417 286.533 304.95 299.2 296.15 310.4C287.35 321.333 275.883 329.867 261.75 336C247.883 342.133 232.017 345.2 214.15 345.2Z"
+     fill="white"
+     id="path196" /><g
+     style="clip-rule:evenodd;fill-rule:evenodd;image-rendering:optimizeQuality;shape-rendering:geometricPrecision;text-rendering:geometricPrecision"
+     id="g447"
+     transform="matrix(0.32453977,0,0,0.32453977,6.9013071,11.289783)"><g
+       id="Layer_x0020_1">
+  <metadata
+   id="CorelCorpID_0Corel-Layer" />
+  <polygon
+   class="fil0"
+   points="1015.8,48.47 668.71,11.5 799.64,300.2 "
+   id="polygon373" />
+  <polygon
+   class="fil1"
+   points="793.79,306.75 446.71,269.78 577.63,558.48 "
+   id="polygon375" />
+  <polygon
+   class="fil2"
+   points="1207.71,702.13 1334.6,999.95 1022.94,925.86 "
+   id="polygon377" />
+  <polygon
+   class="fil2"
+   points="1396.61,475.72 1523.5,773.54 1211.84,699.45 "
+   id="polygon379" />
+  <polygon
+   class="fil0"
+   points="1210.93,695.87 1117.38,377.12 1392.08,470.35 "
+   id="polygon381" />
+  <polygon
+   class="fil2"
+   points="1336.23,1002.03 1213.04,702.7 1523.76,780.54 "
+   id="polygon383" />
+  <polygon
+   class="fil1"
+   points="570.35,565.04 223.27,528.06 354.19,816.77 "
+   id="polygon385" />
+  <polygon
+   class="fil2"
+   points="1017.74,934.12 1118.17,1263.98 806.51,1189.89 "
+   id="polygon387" />
+  <polygon
+   class="fil3"
+   points="346.91,825.11 -0.17,788.14 130.75,1076.84 "
+   id="polygon389" />
+  <polygon
+   class="fil3"
+   points="135.48,1078.88 482.56,1115.85 351.64,827.15 "
+   id="polygon391" />
+  <polygon
+   class="fil3"
+   points="702.57,859.84 355.49,822.87 486.41,1111.57 "
+   id="polygon393" />
+  <polygon
+   class="fil3"
+   points="799.53,1198.48 899.96,1528.33 588.29,1454.24 "
+   id="polygon395" />
+  <polygon
+   class="fil3"
+   points="585.12,1449.01 484.69,1119.15 796.35,1193.24 "
+   id="polygon397" />
+  <polygon
+   class="fil0"
+   points="705.26,861.31 803.02,1191.95 491.97,1115.41 "
+   id="polygon399" />
+  <polygon
+   class="fil3"
+   points="1016.92,52.96 1110.74,370.29 800.16,305.51 "
+   id="polygon401" />
+  <polygon
+   class="fil0"
+   points="891.27,626.42 797.44,309.09 1108.02,371.18 "
+   id="polygon403" />
+  <polygon
+   class="fil0"
+   points="1110.76,375.1 1204.58,692.42 894,630.33 "
+   id="polygon405" />
+  <polygon
+   class="fil1"
+   points="3.87,784.81 350.95,821.78 220.03,533.08 "
+   id="polygon407" />
+  <polygon
+   class="fil2"
+   points="902.54,1523.81 802.11,1193.95 1113.77,1268.04 "
+   id="polygon409" />
+  <polygon
+   class="fil1"
+   points="227.71,524.19 574.8,561.17 443.87,272.46 "
+   id="polygon411" />
+  <polygon
+   class="fil2"
+   points="1121.21,1258.96 1020.78,929.1 1332.44,1003.19 "
+   id="polygon413" />
+  <polygon
+   class="fil1"
+   points="451.13,266.81 798.21,303.78 667.29,15.08 "
+   id="polygon415" />
+ </g></g></svg>
